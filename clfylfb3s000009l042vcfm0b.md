@@ -7,7 +7,7 @@ cuid: clfylfb3s000009l042vcfm0b
 slug: api-101-a-beginners-guide-to-application-programming-interfaces-part-one
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680390320494/643ff95c-7583-4859-a0a0-00953e5b99e0.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680390827689/711c2f68-90aa-4549-9251-2f81c1a1d2fd.png
-tags: web-development, apis, architecture
+tags: web-development, apis, architecture, programming-ciovqvfcb008mb253jrczo9ye, web-services
 
 ---
 
