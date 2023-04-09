@@ -183,7 +183,7 @@ The importance of this part in how we send requests cannot be overstated. Here i
 
 **API Response:**
 
-* *Status Code*: This is a three-digit code that tells us the status of the codes. The status codes help the developer to know what kind of error to report any time problem is encountered when accessing the resource. You can check out these amazing articles [A Complete Guide for HTTP Status Codes!](https://blog.zuberdunge.tech/a-complete-guide-for-http-status-codes) by @[Zuber Dunge](@ZuberDunge) and [HTTP Status Codes that You must know](https://ayushirawat.com/http-status-codes-that-you-must-know) by @[Ayushi Rawat](@ayushi7rawat).
+* *Status Code*: This is a three-digit code that tells us the status of the codes. The status codes help the developer to know what kind of error to report any time problem is encountered when accessing the resource. You can check out these amazing articles [A Complete Guide for HTTP Status Codes!](https://blog.zuberdunge.tech/a-complete-guide-for-http-status-codes) by @[Zuber Dunge](@ZuberDunge) and [HTTP Status Codes that You must know](https://ayushirawat.com/http-status-codes-that-you-must-know) by @[Ayushi Rawat](@ayushi7rawat). You can also check this [resource](https://drive.google.com/file/d/1g_hjFEC-NYfTxWNVfk_WnK2CzFuSYh9c/view?usp=sharing) for more understanding.
     
 * *Headers*: This provides additional info about the response. This may contain the content type, content length, etc.
     
