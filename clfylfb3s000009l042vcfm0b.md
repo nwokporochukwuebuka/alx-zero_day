@@ -51,6 +51,8 @@ Overall, APIs are a critical component of how the internet works, enabling diffe
 * **Composite APIs:** These *APIs* combine multiple APIs. They allow developers to access data and functionality across multiple sources through a single API.
     
 
+---
+
 ### API Architectures
 
 APIs help us exchange data, and for this to be possible, there are a set of rules or protocols that are in place that govern the functioning of APIs.
@@ -125,6 +127,8 @@ A GRAPHQL API typically consists of the following components:
     Other components include the client and the data sources.
     
 
+---
+
 ### API Endpoints and Requests
 
 #### Endpoints
@@ -160,7 +164,33 @@ Endpoints tell us how to locate APIs and resources, but this is not enough to ca
 
 #### Requests and Responses
 
-Requests refer to the message sent by a client application to the API using the HTTP verbs. The request typically includes information such as the HTTP method (e.g., GET, POST, PUT, DELETE, etc.), the endpoint URL, and any additional data required by the API. Like the previous example, we said that to retrieve the list of books registered on a website, we use the endpoint described and send a GET method, i.e., `GET https://api.example.com/books`. This request is sent to the server to fetch a list of all the books on the platform.
+Requests refer to the message sent by a client application to the API using the HTTP verbs. The request typically includes information such as the HTTP method (e.g., GET, POST, PUT, DELETE, etc.), the endpoint URL, the body, the header, the parameter, the query, and any additional data required by the API.
+
+The importance of this part in how we send requests cannot be overstated. Here is a brief rundown on the various part that makes up a request and a response
+
+**API Request:**
+
+* *Endpoint:* The URL that specifies the resource that we are accessing.
+    
+* *Method/HTTP Method*: This describes the HTTP Method that we are using to access the resource e.g GET, PUT, POST, DELETE, etc.
+    
+* *Headers*: This is the additional metadata that provides information about the request. Some of this information includes content type, API Key, authentication token, and more.
+    
+* *Query Parameters*: These are optional parameters that can be used to fetch a specific resource. They are also used for filtering and pagination.
+    
+* *Request body*: This is the payload of the request that contains the data we want to post or perform an action on.
+    
+
+**API Response:**
+
+* *Status Code*: This is a three-digit code that tells us the status of the codes. The status codes help the developer to know what kind of error to report any time problem is encountered when accessing the resource. You can check out these amazing articles [A Complete Guide for HTTP Status Codes!](https://blog.zuberdunge.tech/a-complete-guide-for-http-status-codes) by @[Zuber Dunge](@ZuberDunge) and [HTTP Status Codes that You must know](https://ayushirawat.com/http-status-codes-that-you-must-know) by @[Ayushi Rawat](@ayushi7rawat).
+    
+* *Headers*: This provides additional info about the response. This may contain the content type, content length, etc.
+    
+* *Response Body*: This is the payload of the response from the server. This data can be fetched in different formats which may include JSON or XML.
+    
+
+Like the previous example, we said that to retrieve the list of books registered on a website, we use the endpoint described and send a GET method, i.e., `GET https://api.example.com/books`. This request is sent to the server to fetch a list of all the books on the platform.
 
 After receiving a request, the API processes the request and returns a response to the client application. The response typically includes the requested data or a confirmation of the successful execution of the requested operation. It may also include additional metadata, such as response headers and status codes, to provide additional context about the response.
 
