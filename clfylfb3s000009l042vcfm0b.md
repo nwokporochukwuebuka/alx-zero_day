@@ -141,25 +141,25 @@ For example, here is an endpoint for retrieving the number of books registered o
 
 #### HTTP Methods
 
-Endpoints tell us how to locate APIs and resources, but this is not enough to carry out the actions that we need to. HTTP (HyperText Transfer Protocol) is a protocol or set of rules that is used for transferring data over the web. This set of rules is what we call the HTTP methods, or verbs. They indicate what type of action should be performed. Here is a list of HTTP methods and their meaning:
+Endpoints tell us how to locate APIs and resources, but this is not enough to carry out the actions that we need to. HTTP (HyperText Transfer Protocol) is a protocol or set of rules that is used for transferring data over the web. This set of rules is what we call the HTTP methods, or verbs. They indicate what type of action should be performed. Here is a list of popular HTTP methods:
 
-1. **GET**: This method is used to retrieve data or resources from a specified server using a URL. It should only be used to retrieve data and not to modify or delete it.
+1. **GET**
     
-2. **POST**: This method is used to submit data to be processed by a specified resource on the server. It is commonly used for creating new resources, such as submitting a form or creating a new user account.
+2. **POST**
     
-3. **PUT**: This method is used to update or replace an existing resource on the server with a new one.
+3. **PUT**
     
-4. **DELETE**: This method is used to delete a specified resource on the server.
+4. **DELETE**
     
-5. **PATCH**: This method is used to update a specific part of an existing resource on the server.
+5. **PATCH**
     
-6. **HEAD**: This method is similar to GET, but it only retrieves the header information for a specified resource without returning the actual data.
+6. **HEAD**
     
-7. **OPTIONS**: This method is used to retrieve the available HTTP methods and other options for a specified resource.
+7. **OPTIONS**
     
-8. **CONNECT**: This method is used to establish a network connection to a specified resource.
+8. **CONNECT**
     
-9. **TRACE**: This method is used to retrieve a diagnostic trace of the HTTP request and response messages for a specified resource.
+9. **TRACE**
     
 
 #### Requests and Responses
