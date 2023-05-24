@@ -207,7 +207,7 @@ Some common use of the query parameters includes:
 * **Simplicity and Ease of Use:** Query parameters are typically easier to use and understand compared to route parameters. They can be appended to the URL in a key-value format, making it straightforward for clients to construct and modify requests without needing to modify the URL structure.
     
 
-Wow! We have covered a lot of ground and still have more because I don't like to make my articles lengthy, except for the second part where we dive more into the Anatomy of an API. To receive an update when the article drops, do well to my newsletter or follow me on any of the social media platforms
+Wow! We have covered a lot of ground and still have more because I don't like to make my articles lengthy, except for the second part where we dive more into the Anatomy of an API. To receive an update when the article drops, do well to subscribe to my newsletter or follow me on any of the social media platforms.
 
 Twitter 🐦: @[@nwokporo_ebuka](@nwokporo_ebuka)
 
