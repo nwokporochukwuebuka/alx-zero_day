@@ -1,10 +1,10 @@
 ---
-title: "Anatomy of an API request (Part One)"
+title: "Anatomy of an API request"
 seoTitle: "The Essential Elements of an API Request: A Comprehensive Guide"
 seoDescription: "Discover the crucial components of an API request, from route parameters to query strings and see how to structure requests with seamless data integration."
 datePublished: Wed May 24 2023 07:42:31 GMT+0000 (Coordinated Universal Time)
 cuid: cli1eds2n000p09jihu8c8hiz
-slug: anatomy-of-an-api-request-part-one
+slug: anatomy-of-an-api-request
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684884703442/24d1d030-f931-4c24-a496-8bb1623654a4.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1684913669475/59dd2107-6cb7-4b9e-8436-b59693df7654.png
 tags: http, apis, requests, request-parameter, request-headers
