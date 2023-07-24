@@ -148,4 +148,15 @@ This whole information comes in the header of the response, as it helps us in ma
 
 ### References
 
-List of HTTP status codes. (2023, July 18). In *Wikipedia*. [https://en.wikipedia.org/wiki/List\_of\_HTTP\_status\_codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+List of HTTP status codes. (2023, July 18). In *Wikipedia*. [https://en.wikipedia.org/wiki/List\_of\_HTTP\_status\_codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)  
+  
+  
+To receive an update when the article drops, do well to subscribe to my newsletter or follow me on any of the social media platforms.
+
+Twitter 🐦: @[@nwokporo_ebuka](@nwokporo_ebuka)
+
+LinkedIn ⚡: @[@chukwuebuka_nwokporo](@chukwuebuka_nwokporo)
+
+GitHub 🚀: @[@ebukvick](@ebukvick)
+
+Hashnode 📗: @[Nwokporo Chukwuebuka](@codeDaddy)
