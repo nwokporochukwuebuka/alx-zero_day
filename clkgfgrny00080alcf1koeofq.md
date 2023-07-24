@@ -1,6 +1,6 @@
 ---
 title: "Anatomy of an API Response"
-seoTitle: "Decoding API Responses: Unveiling the Core Components""
+seoTitle: "Decoding API Responses: Unveiling the Core Components"
 seoDescription: "Unraveling the core of API responses for efficient data exchange and seamless communication in software development"
 datePublished: Mon Jul 24 2023 05:28:48 GMT+0000 (Coordinated Universal Time)
 cuid: clkgfgrny00080alcf1koeofq
