@@ -88,12 +88,12 @@ We have about five categories of status codes, which include:
         
         A typical example of this is when accessing some resource when you are not logged in. Many times in backend applications, the client is given a token to always use when communicating with the server. This token is usually passed in the header using the bearer token.
         
-        ````markdown
-        ```'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NGJiY
+        ```markdown
+        'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NGJiY
         WE4ZjIwZWY3ZDAwNDIzZjc5YmMiLCJpYXQiOjE2OTAwMjY5NzMsImV4cCI6MTY5
         MjYxODk3MywidHlwZSI6InJlZnJlc2gifQ.CiIodT7rT6gUhe3lNblScAujF92F
-        992nI0d5FYVfu-Y'```
-        ````
+        992nI0d5FYVfu-Y'
+        ```
         
         This token is received by the server and decoded to authenticate the user, and if the user is valid, the user is allowed to access the resource.
         
