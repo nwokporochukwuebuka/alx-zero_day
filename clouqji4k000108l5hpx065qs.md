@@ -66,7 +66,7 @@ React and React Native differ in several ways, which include:
 
 * **Rendering:** React uses the virtual DOM to render web pages in the web browser. While React Native uses JavaScript Core/Hermes Engine, JavaScript threads, and the React Native bridge to render screens on mobile devices,
     
-* **Styling:** React uses the default CSS for styling to style HTML elements in the web browser. React uses a styling style that is similar to CSS but not CSS.
+* **Styling:** React uses the default CSS for styling to style HTML elements in the web browser. React Native uses a styling style that is similar to CSS but not CSS.
     
 
 ### Why React Native and the Benefits of Using React Native?
