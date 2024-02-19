@@ -162,7 +162,7 @@ To use custom fonts in our iOS devices, we'll follow the steps below
     Our fonts should be ready to use on an iOS device.
     
 
-**PS:***For Orange juice font, it might not display on iOS devices. If we try to use the name that came with the file i.e.*`orange juice 2.0.ttf`*or the name we later gave the file*`orange-juice`*it will not still work. This is because iOS uses the "postscript" name of the font.*  
+\*\*PS:\*\**For Orange juice font, it might not display on iOS devices. If we try to use the name that came with the file i.e.*`orange juice 2.0.ttf`*or the name we later gave the file*`orange-juice`*it will not still work. This is because iOS uses the "postscript" name of the font.*  
 *For me one the quick way to find this out is to check out the name on the iOS font book or better still install the font. Once we install the font, the name of the font is the "postscript" name of that font. For example after installing the*`orange juice 2.0.ttf`*font we can see from the image below that the "postscript" name is*`orange juice`
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708303000903/20392345-2f85-4260-83ed-a0228b20873d.png align="center")
@@ -231,7 +231,7 @@ To use custom fonts in our iOS devices, we'll follow the steps below
     
 3. Start our Metro bundler 💨💨💨
     
-    For us to run our project, we need ton start the Metro bundler using the command below:
+    For us to run our project, we need to start the Metro bundler using the command below:
     
     ```bash
     npm run start
