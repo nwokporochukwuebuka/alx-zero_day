@@ -13,17 +13,17 @@ tags: react-native, mobile-app-development, mobile-development, custom-fonts, cu
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708303548181/db809b4b-464c-4449-9d19-0526597ee23a.png align="center")
 
-## Introduction 👋👋👋
+## Introduction 👋🏿👋🏿👋🏿
 
-Welcome to this interesting series on "*Enhancing Your React Native App.*" 🎉🎉. In the last article, we saw what was needed for a developer interested in building mobile apps using React Native. In our last article, we saw that React Native could be used to build cross-platform applications. As we continue to build interesting mobile apps, we seek ways to elevate our creations' visual appeal and user experience.
+Welcome to this interesting series on "*Enhancing Your React Native App.*" 🎉🎉. In the last article, we saw what was needed for a developer interested in building mobile apps using React Native. We also saw that React Native could be used to build cross-platform applications. As we continue to build interesting mobile apps, we seek ways to elevate our creations' visual appeal and user experience.
 
-## Why use custom fonts in apps? 🤷🤷🤷
+## Why use custom fonts in apps? 🤷🏿🤷🏿🤷🏿
 
 In building mobile apps, understanding how to implement custom fonts in our apps can greatly enhance the aesthetics and branding of our apps. Using custom fonts in our apps infuses personality, professionalism, and style into our interfaces, elevating them to exceptional.
 
 In this article, we will learn how to use custom fonts to make our app visually captivating and leave a lasting impression on the users.
 
-## Exploring resources for custom fonts 📒👩‍💻
+## Exploring resources for custom fonts 📒👨🏿‍💻
 
 Here is a list of websites where you can find custom fonts for your personal or commercial projects:
 
@@ -147,7 +147,7 @@ To use custom fonts in our iOS devices, we'll follow the steps below
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708297336671/7045836a-22f4-4524-be48-07345a256722.png align="center")
     
-6. Next, we click the **project name - RNFonts** on the left top, and select the project name on **TARGETS**. Click the **Info** tab on the top menu to see `Info.plist`. When you hover over the properties in the `Info.plist` file, we will see a "plus" button and add **Fonts provided by application** and **font files** to the `Info.plist`file.
+6. Next, we click the **project name - RNFonts** on the left top, and select the project name on **TARGETS**. Click the **Info** tab on the top menu to see `Info.plist`. When you hover over the properties in the `Info.plist` file, we will see a "plus" button and add "**Fonts provided by application"** and **font files** to the `Info.plist`file.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708298179885/a2e6738d-3ffb-4981-bffb-9e5086cda799.png align="center")
     
@@ -162,14 +162,14 @@ To use custom fonts in our iOS devices, we'll follow the steps below
     Our fonts should be ready to use on an iOS device.
     
 
-\*\*PS:\*\**For Orange juice font, it might not display on iOS devices. If we try to use the name that came with the file i.e.*`orange juice 2.0.ttf`*or the name we later gave the file*`orange-juice`*it will not still work. This is because iOS uses the "postscript" name of the font.*  
-*For me one the quick way to find this out is to check out the name on the iOS font book or better still install the font. Once we install the font, the name of the font is the "postscript" name of that font. For example after installing the*`orange juice 2.0.ttf`*font we can see from the image below that the "postscript" name is*`orange juice`
+**PS:** *For Orange juice font, it might not display on iOS devices. If we try to use the name that came with the file, i.e.,*`orange juice 2.0.ttf`*or the name we later gave the file*`orange-juice`*it will not still work. This is because iOS uses the "postscript" name of the font.*  
+*For me, one of the quick ways to find this out is to check out the name on the iOS font book or better still install the font. Once we install the font, the name of the font is the "postscript" name of that font. For example, after installing the*`orange juice 2.0.ttf`*the font we can see from the image below that the "postscript" name is*`orange juice`
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708303000903/20392345-2f85-4260-83ed-a0228b20873d.png align="center")
 
 ### Testing our custom fonts on both Android and iOS
 
-1. Jump into the project folder, and open on **VSCode**
+1. Jump into the project folder, and open it on **VSCode**
     
     ```bash
     cd RNFonts
@@ -262,7 +262,7 @@ To use custom fonts in our iOS devices, we'll follow the steps below
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708303193032/dcef08e0-3f31-4efc-b61a-fc8ed6607442.png align="center")
     
 
-And we have come to the end of this article on using custom fonts. If you have challenge following the steps, you can ask your questions in the comment box.✅✅
+And we have come to the end of this article on using custom fonts. If you have a challenge following the steps, you can ask your questions in the comment box.✅✅
 
 ![](https://media1.tenor.com/m/VDeODFt482oAAAAC/finished-spongebob-squarepantes.gif align="center")
 
